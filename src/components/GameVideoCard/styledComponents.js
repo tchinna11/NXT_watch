@@ -32,13 +32,13 @@ export const GamingContentSection = styled.div`
 `
 
 export const GamingTitle = styled.p`
-  font-family: "Roboto";
+  font-family: 'Roboto';
   font-size: 15px;
   color: ${props => props.color};
   margin-bottom: 0px;
 `
 export const GamingViewAndDate = styled.p`
-  font-family: "Roboto";
+  font-family: 'Roboto';
   font-size: 12px;
   color: ${props => props.color};
 `

@@ -32,7 +32,7 @@ export const GamingTitleIconContainer = styled.div`
 `
 
 export const GamingText = styled.h1`
-  font-family: "Roboto";
+  font-family: 'Roboto';
   font-size: 25px;
   color: ${props => props.color};
   @media screen and (min-width: 768px) {

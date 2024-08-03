@@ -36,18 +36,18 @@ export const ContentSection = styled.div`
 `
 
 export const Title = styled.p`
-  font-family: "Roboto";
+  font-family: 'Roboto';
   font-size: 15px;
   color: ${props => props.color};
 `
 export const ChannelName = styled.p`
-  font-family: "Roboto";
+  font-family: 'Roboto';
   font-size: 13px;
   color: ${props => props.color};
 `
 
 export const ViewsAndDate = styled.p`
-  font-family: "Roboto";
+  font-family: 'Roboto';
   font-size: 12px;
   color: ${props => props.color};
 `

@@ -40,7 +40,7 @@ export const NavLinkContainer = styled.li`
 `
 
 export const NavText = styled.p`
-  font-family: "Roboto";
+  font-family: 'Roboto';
   font-size: 18px;
   margin-left: 15px;
   color: ${props => props.color};
@@ -53,7 +53,7 @@ export const ContactInfo = styled.div`
 `
 
 export const ContactHeading = styled.p`
-  font-family: "Roboto";
+  font-family: 'Roboto';
   font-size: 25px;
   font-weight: bold;
   color: ${props => props.color};
@@ -72,7 +72,7 @@ export const ContactImage = styled.img`
 `
 
 export const ContactNote = styled.p`
-  font-family: "Roboto";
+  font-family: 'Roboto';
   font-size: 18px;
   color: ${props => props.color};
 `

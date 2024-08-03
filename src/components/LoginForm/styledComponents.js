@@ -31,14 +31,14 @@ export const LoginButton = styled.button`
   background-color: #4f46e5;
   border: none;
   border-radius: 5px;
-  font-family: "Roboto";
+  font-family: 'Roboto';
   font-size: 15px;
   height: 30px;
   color: #ffffff;
   margin-top: 20px;
 `
 export const SubmitError = styled.p`
-  font-family: "Roboto";
+  font-family: 'Roboto';
   font-size: 12px;
   color: #ff0b37;
 `
@@ -51,7 +51,7 @@ export const InputLabel = styled.label`
 `
 
 export const UserInput = styled.input`
-  font-family: "Roboto";
+  font-family: 'Roboto';
   font-size: 15px;
   color: #475569;
   outline: none;
@@ -76,7 +76,7 @@ export const Checkbox = styled.input`
 `
 
 export const ShowPassword = styled.label`
-  font-family: "Roboto";
+  font-family: 'Roboto';
   font-size: 15px;
   color: #1e293b;
 `

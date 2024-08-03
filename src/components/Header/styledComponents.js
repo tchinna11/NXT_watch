@@ -40,7 +40,7 @@ export const ThemeButton = styled.button`
 
 export const LogoutButton = styled.button`
   border: 1px solid;
-  font-family: "Roboto";
+  font-family: 'Roboto';
   padding-left: 10px;
   padding-right: 10px;
   padding-top: 5px;
@@ -94,7 +94,7 @@ export const CloseButton = styled.button`
   outline: none;
   cursor: pointer;
   border-radius: 6px;
-  font-family: "Roboto";
+  font-family: 'Roboto';
   font-weight: bold;
   font-size: 12px;
   @media screen and (min-width: 768px) {
@@ -116,7 +116,7 @@ export const ConfirmButton = styled.button`
   outline: none;
   cursor: pointer;
   border-radius: 6px;
-  font-family: "Roboto";
+  font-family: 'Roboto';
   font-weight: bold;
   font-size: 12px;
   @media screen and (min-width: 768px) {
@@ -128,7 +128,7 @@ export const ConfirmButton = styled.button`
 `
 
 export const ModalDesc = styled.p`
-  font-family: "Roboto";
+  font-family: 'Roboto';
   font-size: 15px;
   margin: 10px;
   color: black;

@@ -13,7 +13,7 @@ export const HomeContainer = styled.div`
 `
 
 export const BannerContainer = styled.div`
-  background-image: url("https://assets.ccbp.in/frontend/react-js/nxt-watch-banner-bg.png");
+  background-image: url('https://assets.ccbp.in/frontend/react-js/nxt-watch-banner-bg.png');
   width: 100%;
   background-size: cover;
   height: 200px;
@@ -46,7 +46,7 @@ export const BannerButton = styled.button`
 `
 
 export const BannerText = styled.p`
-  font-family: "Roboto";
+  font-family: 'Roboto';
   font-size: 15px;
   color: #000000;
   @media screen and (min-width: 768px) {
@@ -88,7 +88,7 @@ export const SearchInput = styled.input`
   padding: 5px;
   border: none;
   color: ${props => props.color};
-  font-family: "Roboto";
+  font-family: 'Roboto';
 `
 export const LoaderContainer = styled.div`
   display: flex;

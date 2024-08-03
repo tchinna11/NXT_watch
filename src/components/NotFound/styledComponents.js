@@ -30,14 +30,14 @@ export const NotFoundvideosImage = styled.img`
 `
 
 export const NotFoundvideosHeading = styled.h`
-  font-family: "Roboto";
+  font-family: 'Roboto';
   font-size: 25px;
   color: ${props => props.headingColor};
   text-align: center;
 `
 
 export const NotFoundvideosNote = styled.p`
-  font-family: "Roboto";
+  font-family: 'Roboto';
   font-size: 18px;
   color: ${props => props.noteColor};
   text-align: center;

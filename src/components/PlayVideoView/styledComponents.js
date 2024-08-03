@@ -5,7 +5,7 @@ export const VideoPlayer = styled.div`
 `
 
 export const PlayVideoTitle = styled.p`
-  font-family: "Roboto";
+  font-family: 'Roboto';
   font-size: 25px;
   color: ${props => props.color};
 `
@@ -17,7 +17,7 @@ export const PlayVideoStatusContainer = styled.div`
 `
 
 export const PlayVideoStatus = styled.p`
-  font-family: "Roboto";
+  font-family: 'Roboto';
   font-size: 12px;
   color: ${props => props.color};
 `
@@ -76,20 +76,20 @@ export const ChannelInfo = styled.div`
 `
 
 export const ChannelName = styled.p`
-  font-family: "Roboto";
+  font-family: 'Roboto';
   font-size: 15px;
   color: ${props => props.color};
   margin: 0px;
 `
 
 export const ChannelSubscribers = styled.p`
-  font-family: "Roboto";
+  font-family: 'Roboto';
   font-size: 12px;
   color: ${props => props.color};
 `
 
 export const ChannelDescription = styled.p`
-  font-family: "Roboto";
+  font-family: 'Roboto';
   font-size: 15px;
   color: ${props => props.color};
 `

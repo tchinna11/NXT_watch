@@ -16,14 +16,14 @@ export const FailedImage = styled.img`
 `
 
 export const FailedHeading = styled.h1`
-  font-family: "Roboto";
+  font-family: 'Roboto';
   font-size: 25px;
   color: ${props => props.headingColor};
   text-align: center;
 `
 
 export const FailedNote = styled.p`
-  font-family: "Roboto";
+  font-family: 'Roboto';
   font-size: 18px;
   color: ${props => props.noteColor};
   text-align: center;
@@ -38,6 +38,6 @@ export const RetryButton = styled.button`
   padding-right: 10px;
   padding-top: 5px;
   padding-bottom: 5px;
-  font-family: "Roboto";
+  font-family: 'Roboto';
   font-size: 15px;
 `

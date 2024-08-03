@@ -31,7 +31,7 @@ export const SavedTitleIconContainer = styled.div`
 `
 
 export const SavedText = styled.h1`
-  font-family: "Roboto";
+  font-family: 'Roboto';
   font-size: 25px;
   color: ${props => props.color};
   @media screen and (min-width: 768px) {
@@ -62,14 +62,14 @@ export const NoSavedVideoImage = styled.img`
 `
 
 export const NoSavedVideoHeading = styled.h`
-  font-family: "Roboto";
+  font-family: 'Roboto';
   font-size: 25px;
   color: ${props => props.color};
   text-align: center;
 `
 
 export const NoSavedVideoNote = styled.p`
-  font-family: "Roboto";
+  font-family: 'Roboto';
   font-size: 18px;
   color: ${props => props.color};
   text-align: center;
