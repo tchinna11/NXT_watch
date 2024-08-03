@@ -112,7 +112,7 @@ class LoginForm extends Component {
     }
     return (
       <AppContainer>
-        <FormContainer>
+        <FormContainer onSubmit={this.submitForm}>
           <LoginLogo
             src="https://assets.ccbp.in/frontend/react-js/nxt-watch-logo-light-theme-img.png"
             alt="website logo"
